@@ -1,0 +1,50 @@
+/* Font importing */
+@font-face {
+  src: url(fonts/Roboto-Regular.ttf);
+  font-family: PSRegular;
+}
+
+@font-face {
+  src: url(fonts/Roboto-Bold.ttf);
+  font-family: PSBold;
+}
+
+@font-face {
+  src: url(fonts/Roboto-Italic.ttf);
+  font-family: PSItalic;
+}
+
+@font-face {
+  src: url(fonts/Roboto-BoldItalic.ttf);
+  font-family: PSBoldItalic;
+}
+
+@font-face {
+  src: url(fonts/Roboto-Thin.ttf);
+  font-family: PSThin;
+}
+
+@font-face {
+  src: url(fonts/Roboto-Medium.ttf);
+  font-family: PSMedium;
+}
+
+@font-face {
+  src: url(fonts/Roboto-Light.ttf);
+  font-family: PSLight;
+}
+
+@font-face {
+  src: url(fonts/Roboto-Black.ttf);
+  font-family: PSBlack;
+}
+
+@font-face {
+  src: url(fonts/Roboto-Condensed.ttf);
+  font-family: PSCondensed;
+}
+
+@font-face {
+  src: url(fonts/EuphoriaScript-Regular);
+  font-family: PSScript;
+}
